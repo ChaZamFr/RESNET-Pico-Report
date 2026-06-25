@@ -9,7 +9,7 @@ The goal of this work was to implement a hardware fault injection framework on a
 3) Critical Silent Data Corruption (Critical SDC) - When the fault changes the corruption
 4) Detectable Unrecoverable Errors (DUE) - Fault causing a system hang or crash
 
-Read it from a paper called [Evaluating Different Fault Injection Abstractions on
+I read it from a paper called [Evaluating Different Fault Injection Abstractions on
 the Assessment of DNN SW Hardening Strategies](https://ieeexplore.ieee.org/document/10915284)
 
 
